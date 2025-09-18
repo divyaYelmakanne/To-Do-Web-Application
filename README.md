@@ -1,4 +1,4 @@
-# To-Do Web App
+# To-Do Web Application
 
 A full-stack To-Do Web Application designed to help users manage their tasks efficiently and boost productivity. This application goes beyond a simple list by offering advanced features such as user authentication, task prioritization, recurring tasks, and detailed analytics.
 
@@ -106,11 +106,9 @@ This project is organized into a standard full-stack application structure, sepa
     npm start
     ```
     The frontend will run on `http://localhost:3000` and automatically open in your browser.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]([link_to_issues_page]).
+    
 
 ## 📄 License
+
 
 This project is licensed under the [MIT License](LICENSE).
